@@ -1489,3 +1489,4 @@
 2025-10-13 14:18:55 improve UX
 2025-04-15 23:28:26 fix null pointer
 2025-05-07 09:37:17 add logging
+2025-09-04 17:34:12 fix encoding issue
